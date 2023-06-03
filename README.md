@@ -13,6 +13,7 @@ The power of gibberish and abstract thought.
 The concept of the Simulacrium - an AI's internal world.
 The evolution of our AI character, Gibberish.
 The creation of "Automagic", a reality competition with real-world consequences.
+
 Projects 📚
 
 Here are some of the projects that I am currently working on:
