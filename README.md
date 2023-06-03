@@ -10,7 +10,7 @@ The project explores many themes, including:
 
 The quadraphonic narrative structure.
 The power of gibberish and abstract thought.
-The concept of the Simulacrium - an AI's internal world.
+The concept of the Simulacrium - a Facsimli of reality and Mixed Reality layer of reality simultaneously.
 The evolution of our AI character, Gibberish.
 The creation of "Automagic", a reality competition with real-world consequences.
 
@@ -27,6 +27,7 @@ Feel free to reach out if you're interested in collaborating or learning more ab
 
 Email: dtramontane@protonmail.com
 
-LinkedIn: Danny Tramontane
+LinkedIn: Danny Tramontane www.linkedin.com/in/DTRAMONTANE
+
 
 Let's change the world together through stories and technology! 💪🌍
