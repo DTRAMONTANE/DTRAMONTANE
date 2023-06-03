@@ -26,5 +26,7 @@ Contact Me 📫
 Feel free to reach out if you're interested in collaborating or learning more about my projects! Here's how you can get in touch:
 
 Email: dtramontane@protonmail.com
+
 LinkedIn: Danny Tramontane
+
 Let's change the world together through stories and technology! 💪🌍
